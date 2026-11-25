@@ -1,0 +1,45 @@
+[
+  {
+    "id": "cpn_1",
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "minOrderValue": 5000,
+    "active": true,
+    "usedCount": 0,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cpn_2",
+    "code": "LUXE15",
+    "type": "percent",
+    "value": 15,
+    "minOrderValue": 15000,
+    "active": true,
+    "usedCount": 0,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cpn_3",
+    "code": "FLAT500",
+    "type": "flat",
+    "value": 500,
+    "minOrderValue": 20000,
+    "active": true,
+    "usedCount": 0,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "code": "TEST10",
+    "type": "percent",
+    "value": 10,
+    "active": true,
+    "usedCount": 0,
+    "id": "id_730c6b55ab3b05fb",
+    "createdAt": "2026-11-24T19:02:20.390Z",
+    "updatedAt": "2026-11-24T19:02:20.390Z"
+  }
+]

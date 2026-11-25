@@ -1,0 +1,485 @@
+[
+  {
+    "id": "evt_fb7ff78459e59aac",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-24T18:57:59.769Z"
+  },
+  {
+    "id": "evt_cdcc9da64ae63f96",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-24T18:57:59.792Z"
+  },
+  {
+    "id": "evt_e0629f127a323de8",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-24T18:58:11.675Z"
+  },
+  {
+    "id": "evt_498e047d5bd4c320",
+    "type": "pageview",
+    "path": "/product/terra-cotta-v3",
+    "createdAt": "2026-11-24T18:58:22.369Z"
+  },
+  {
+    "id": "evt_4ba12e20678c9824",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-24T18:58:33.282Z"
+  },
+  {
+    "id": "evt_2b077a52dd35a827",
+    "type": "pageview",
+    "path": "/calculator",
+    "createdAt": "2026-11-24T18:58:58.685Z"
+  },
+  {
+    "id": "evt_c66be7eea43d1562",
+    "type": "pageview",
+    "path": "/custom-design",
+    "createdAt": "2026-11-24T18:59:19.205Z"
+  },
+  {
+    "id": "evt_afcf49f7e783f3f2",
+    "type": "pageview",
+    "path": "/inspiration",
+    "createdAt": "2026-11-24T18:59:24.882Z"
+  },
+  {
+    "id": "evt_e1d13bb30ff8cd5b",
+    "type": "pageview",
+    "path": "/samples",
+    "createdAt": "2026-11-24T18:59:28.241Z"
+  },
+  {
+    "id": "evt_c14cb2fe31377069",
+    "type": "pageview",
+    "path": "/contact",
+    "createdAt": "2026-11-24T18:59:51.596Z"
+  },
+  {
+    "id": "evt_7671749c87927c99",
+    "type": "pageview",
+    "path": "/about",
+    "createdAt": "2026-11-24T18:59:56.425Z"
+  },
+  {
+    "id": "evt_ddc23b7ebccfed47",
+    "type": "pageview",
+    "path": "/blog",
+    "createdAt": "2026-11-24T19:00:02.966Z"
+  },
+  {
+    "id": "evt_7c163dfeb26bb9b6",
+    "type": "pageview",
+    "path": "/inspiration",
+    "createdAt": "2026-11-24T19:00:10.589Z"
+  },
+  {
+    "id": "evt_1b8fb4f7b4b2bf41",
+    "type": "pageview",
+    "path": "/custom-design",
+    "createdAt": "2026-11-24T19:00:19.677Z"
+  },
+  {
+    "id": "evt_601f170db6837e52",
+    "type": "pageview",
+    "path": "/calculator",
+    "createdAt": "2026-11-24T19:00:26.217Z"
+  },
+  {
+    "id": "evt_f940692941a07ee2",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-24T19:00:28.402Z"
+  },
+  {
+    "id": "evt_ea527d350f88019b",
+    "type": "pageview",
+    "path": "/inspiration",
+    "createdAt": "2026-11-24T19:02:43.567Z"
+  },
+  {
+    "id": "evt_54cf9573958bb36f",
+    "type": "pageview",
+    "path": "/custom-design",
+    "createdAt": "2026-11-24T19:02:47.292Z"
+  },
+  {
+    "id": "evt_3dcdcc4875e1d876",
+    "type": "pageview",
+    "path": "/samples",
+    "createdAt": "2026-11-24T19:02:49.290Z"
+  },
+  {
+    "id": "evt_6a31b9c75b5bccfe",
+    "type": "pageview",
+    "path": "/calculator",
+    "createdAt": "2026-11-24T19:02:52.956Z"
+  },
+  {
+    "id": "evt_484a639e6b57ce07",
+    "type": "pageview",
+    "path": "/shop",
+    "createdAt": "2026-11-24T19:02:57.405Z"
+  },
+  {
+    "id": "evt_686544d6e1242ca2",
+    "type": "pageview",
+    "path": "/product/majestic-bloom-a",
+    "createdAt": "2026-11-24T19:03:02.712Z"
+  },
+  {
+    "id": "evt_22f3881058052939",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-24T19:03:15.755Z"
+  },
+  {
+    "id": "evt_154f5ecadd36ced5",
+    "type": "pageview",
+    "path": "/admin/login",
+    "createdAt": "2026-11-24T19:04:16.839Z"
+  },
+  {
+    "id": "evt_620b2a22bed44bda",
+    "type": "pageview",
+    "path": "/admin/login",
+    "createdAt": "2026-11-24T19:04:16.848Z"
+  },
+  {
+    "id": "evt_00b919e7555ac5f0",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:08:29.982Z"
+  },
+  {
+    "id": "evt_7d01d585197f0f9a",
+    "type": "pageview",
+    "path": "/shop",
+    "createdAt": "2026-11-25T03:09:30.906Z"
+  },
+  {
+    "id": "evt_b290270f679f1667",
+    "type": "pageview",
+    "path": "/admin%20%E2%86%92%20/admin/login",
+    "createdAt": "2026-11-25T03:24:04.797Z"
+  },
+  {
+    "id": "evt_3d954924f5c385c7",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:24:07.854Z"
+  },
+  {
+    "id": "evt_7f5144a58128c0ba",
+    "type": "pageview",
+    "path": "/admin/login",
+    "createdAt": "2026-11-25T03:24:16.453Z"
+  },
+  {
+    "id": "evt_949afc6990a15f9c",
+    "type": "pageview",
+    "path": "/admin",
+    "createdAt": "2026-11-25T03:24:47.570Z"
+  },
+  {
+    "id": "evt_90dd45d526d5d10f",
+    "type": "pageview",
+    "path": "/admin/products",
+    "createdAt": "2026-11-25T03:24:51.825Z"
+  },
+  {
+    "id": "evt_47c9d36ae0ec45b9",
+    "type": "pageview",
+    "path": "/admin",
+    "createdAt": "2026-11-25T03:24:59.613Z"
+  },
+  {
+    "id": "evt_81616392a71d5f51",
+    "type": "pageview",
+    "path": "/admin/products",
+    "createdAt": "2026-11-25T03:25:04.071Z"
+  },
+  {
+    "id": "evt_d72b87969c2d407d",
+    "type": "pageview",
+    "path": "/admin/categories",
+    "createdAt": "2026-11-25T03:25:05.418Z"
+  },
+  {
+    "id": "evt_55be10b2f3db4a78",
+    "type": "pageview",
+    "path": "/admin/subcategories",
+    "createdAt": "2026-11-25T03:25:07.629Z"
+  },
+  {
+    "id": "evt_1096b893a7446149",
+    "type": "pageview",
+    "path": "/admin/categories",
+    "createdAt": "2026-11-25T03:25:09.519Z"
+  },
+  {
+    "id": "evt_393e3c52ac214953",
+    "type": "pageview",
+    "path": "/admin/rooms",
+    "createdAt": "2026-11-25T03:25:19.051Z"
+  },
+  {
+    "id": "evt_87c1c66860e67348",
+    "type": "pageview",
+    "path": "/admin/media",
+    "createdAt": "2026-11-25T03:25:21.426Z"
+  },
+  {
+    "id": "evt_19a114b251870a79",
+    "type": "pageview",
+    "path": "/admin/homepage",
+    "createdAt": "2026-11-25T03:25:31.460Z"
+  },
+  {
+    "id": "evt_580e614c1321b0b6",
+    "type": "pageview",
+    "path": "/admin/banners",
+    "createdAt": "2026-11-25T03:25:47.629Z"
+  },
+  {
+    "id": "evt_6663a5992c0bac27",
+    "type": "pageview",
+    "path": "/admin/pages",
+    "createdAt": "2026-11-25T03:26:05.946Z"
+  },
+  {
+    "id": "evt_dc761e7789a1c4a0",
+    "type": "pageview",
+    "path": "/admin/theme",
+    "createdAt": "2026-11-25T03:26:27.326Z"
+  },
+  {
+    "id": "evt_b16ef7c2d9a9ee4c",
+    "type": "pageview",
+    "path": "/admin/header",
+    "createdAt": "2026-11-25T03:26:38.483Z"
+  },
+  {
+    "id": "evt_2b6cfe9527b9278d",
+    "type": "pageview",
+    "path": "/admin/navigation",
+    "createdAt": "2026-11-25T03:26:44.567Z"
+  },
+  {
+    "id": "evt_6bb021624fc5212e",
+    "type": "pageview",
+    "path": "/admin/footer",
+    "createdAt": "2026-11-25T03:27:02.568Z"
+  },
+  {
+    "id": "evt_957788cc3a659090",
+    "type": "pageview",
+    "path": "/admin/orders",
+    "createdAt": "2026-11-25T03:27:20.116Z"
+  },
+  {
+    "id": "evt_95e6b30525c69d6b",
+    "type": "pageview",
+    "path": "/admin/samples",
+    "createdAt": "2026-11-25T03:27:22.334Z"
+  },
+  {
+    "id": "evt_556e20d4ff4e3da1",
+    "type": "pageview",
+    "path": "/admin/orders",
+    "createdAt": "2026-11-25T03:27:34.690Z"
+  },
+  {
+    "id": "evt_10133f28a1e8f346",
+    "type": "pageview",
+    "path": "/admin/customers",
+    "createdAt": "2026-11-25T03:27:36.328Z"
+  },
+  {
+    "id": "evt_d86712ac107014e3",
+    "type": "pageview",
+    "path": "/admin/samples",
+    "createdAt": "2026-11-25T03:27:38.274Z"
+  },
+  {
+    "id": "evt_97849fe434b45dd1",
+    "type": "pageview",
+    "path": "/admin/enquiries/custom-design",
+    "createdAt": "2026-11-25T03:27:40.138Z"
+  },
+  {
+    "id": "evt_93da8f2895118cab",
+    "type": "pageview",
+    "path": "/admin/enquiries/consultation",
+    "createdAt": "2026-11-25T03:27:42.775Z"
+  },
+  {
+    "id": "evt_469001081b846368",
+    "type": "pageview",
+    "path": "/admin/enquiries/installation",
+    "createdAt": "2026-11-25T03:27:44.490Z"
+  },
+  {
+    "id": "evt_b0286f42ecefe3e7",
+    "type": "pageview",
+    "path": "/admin/coupons",
+    "createdAt": "2026-11-25T03:27:46.771Z"
+  },
+  {
+    "id": "evt_51a53fc2017207ee",
+    "type": "pageview",
+    "path": "/admin/reviews",
+    "createdAt": "2026-11-25T03:27:52.452Z"
+  },
+  {
+    "id": "evt_575c4fc9e6d81395",
+    "type": "pageview",
+    "path": "/admin/projects",
+    "createdAt": "2026-11-25T03:27:58.554Z"
+  },
+  {
+    "id": "evt_c412e87093a71178",
+    "type": "pageview",
+    "path": "/admin/before-after",
+    "createdAt": "2026-11-25T03:28:05.088Z"
+  },
+  {
+    "id": "evt_bb8ac1182dd63a8d",
+    "type": "pageview",
+    "path": "/admin/inspiration",
+    "createdAt": "2026-11-25T03:28:16.799Z"
+  },
+  {
+    "id": "evt_ec6ec5ed3cc6dcd8",
+    "type": "pageview",
+    "path": "/admin/blog",
+    "createdAt": "2026-11-25T03:28:17.902Z"
+  },
+  {
+    "id": "evt_494b90d3f444ed53",
+    "type": "pageview",
+    "path": "/admin/seo",
+    "createdAt": "2026-11-25T03:28:23.426Z"
+  },
+  {
+    "id": "evt_d007aa5de072ff8f",
+    "type": "pageview",
+    "path": "/admin/settings/payments",
+    "createdAt": "2026-11-25T03:28:27.349Z"
+  },
+  {
+    "id": "evt_e8c3b34ccdadf0e6",
+    "type": "pageview",
+    "path": "/admin/settings/shipping",
+    "createdAt": "2026-11-25T03:28:31.758Z"
+  },
+  {
+    "id": "evt_deb0235fbdac8795",
+    "type": "pageview",
+    "path": "/admin/settings/whatsapp",
+    "createdAt": "2026-11-25T03:28:34.132Z"
+  },
+  {
+    "id": "evt_42cd1c1ae5c1debf",
+    "type": "pageview",
+    "path": "/admin/settings/business",
+    "createdAt": "2026-11-25T03:28:36.550Z"
+  },
+  {
+    "id": "evt_d708a5edfdaa7a55",
+    "type": "pageview",
+    "path": "/admin/settings/website",
+    "createdAt": "2026-11-25T03:28:40.665Z"
+  },
+  {
+    "id": "evt_39728922419780b9",
+    "type": "pageview",
+    "path": "/admin/settings/admin",
+    "createdAt": "2026-11-25T03:28:43.196Z"
+  },
+  {
+    "id": "evt_6f0c0b3573e85632",
+    "type": "pageview",
+    "path": "/admin",
+    "createdAt": "2026-11-25T03:29:00.977Z"
+  },
+  {
+    "id": "evt_85b3e179f301f16f",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:29:02.689Z"
+  },
+  {
+    "id": "evt_e7ca69210ce48469",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:34:15.202Z"
+  },
+  {
+    "id": "evt_cb5f5a89b34c2df1",
+    "type": "pageview",
+    "path": "/checkout",
+    "createdAt": "2026-11-25T03:34:35.306Z"
+  },
+  {
+    "id": "evt_0db2a3457a6a1495",
+    "type": "order",
+    "meta": {
+      "orderId": "ORD-2026-480169",
+      "total": "21905.28"
+    },
+    "createdAt": "2026-11-25T03:34:49.590Z"
+  },
+  {
+    "id": "evt_b8f6313e39835945",
+    "type": "pageview",
+    "path": "/order-confirmation/ORD-2026-480169",
+    "createdAt": "2026-11-25T03:34:49.728Z"
+  },
+  {
+    "id": "evt_423a2bf5bd116d34",
+    "type": "pageview",
+    "path": "/checkout",
+    "createdAt": "2026-11-25T03:35:01.242Z"
+  },
+  {
+    "id": "evt_ef99aec5083022a1",
+    "type": "pageview",
+    "path": "/checkout",
+    "createdAt": "2026-11-25T03:35:02.984Z"
+  },
+  {
+    "id": "evt_da7ade13938f1e5e",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:35:05.808Z"
+  },
+  {
+    "id": "evt_1b20e3c2dff513ae",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:51:58.182Z"
+  },
+  {
+    "id": "evt_c82ece530fbf60b5",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T03:51:58.195Z"
+  },
+  {
+    "id": "evt_984917ee65450b89",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T03:53:17.303Z"
+  },
+  {
+    "id": "evt_dfbd2088f775e148",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T03:53:17.325Z"
+  }
+]

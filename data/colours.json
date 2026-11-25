@@ -1,0 +1,189 @@
+[
+  {
+    "id": "col_1",
+    "name": "Ivory & Cream",
+    "slug": "ivory-cream",
+    "hex": "#F8F5EE",
+    "image": "https://picsum.photos/seed/col-0/900/1200",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_2",
+    "name": "Champagne Beige",
+    "slug": "champagne-beige",
+    "hex": "#DDD0BE",
+    "image": "https://picsum.photos/seed/col-1/900/1200",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_3",
+    "name": "Luxury Gold",
+    "slug": "luxury-gold",
+    "hex": "#B79A61",
+    "image": "https://picsum.photos/seed/col-2/900/1200",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_4",
+    "name": "Olive Green",
+    "slug": "olive-green",
+    "hex": "#555E47",
+    "image": "https://picsum.photos/seed/col-3/900/1200",
+    "order": 3,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_5",
+    "name": "Espresso Brown",
+    "slug": "espresso-brown",
+    "hex": "#30251F",
+    "image": "https://picsum.photos/seed/col-4/900/1200",
+    "order": 4,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_6",
+    "name": "Blush Pink",
+    "slug": "blush-pink",
+    "hex": "#E8C4C4",
+    "image": "https://picsum.photos/seed/col-5/900/1200",
+    "order": 5,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_7",
+    "name": "Sage Green",
+    "slug": "sage-green",
+    "hex": "#9CAF88",
+    "image": "https://picsum.photos/seed/col-6/900/1200",
+    "order": 6,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_8",
+    "name": "Navy Blue",
+    "slug": "navy-blue",
+    "hex": "#1F2A44",
+    "image": "https://picsum.photos/seed/col-7/900/1200",
+    "order": 7,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_9",
+    "name": "Teal & Turquoise",
+    "slug": "teal-turquoise",
+    "hex": "#2E6E6A",
+    "image": "https://picsum.photos/seed/col-8/900/1200",
+    "order": 8,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_10",
+    "name": "Terracotta",
+    "slug": "terracotta",
+    "hex": "#C06B4A",
+    "image": "https://picsum.photos/seed/col-9/900/1200",
+    "order": 9,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_11",
+    "name": "Charcoal Grey",
+    "slug": "charcoal-grey",
+    "hex": "#3A3A3A",
+    "image": "https://picsum.photos/seed/col-10/900/1200",
+    "order": 10,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_12",
+    "name": "Burgundy & Maroon",
+    "slug": "burgundy-maroon",
+    "hex": "#6B1F2A",
+    "image": "https://picsum.photos/seed/col-11/900/1200",
+    "order": 11,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_13",
+    "name": "Mustard Yellow",
+    "slug": "mustard-yellow",
+    "hex": "#D9A441",
+    "image": "https://picsum.photos/seed/col-12/900/1200",
+    "order": 12,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_14",
+    "name": "Lavender",
+    "slug": "lavender",
+    "hex": "#B8A9C9",
+    "image": "https://picsum.photos/seed/col-13/900/1200",
+    "order": 13,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_15",
+    "name": "White & Off-White",
+    "slug": "white-off-white",
+    "hex": "#FFFFFF",
+    "image": "https://picsum.photos/seed/col-14/900/1200",
+    "order": 14,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_16",
+    "name": "Emerald Green",
+    "slug": "emerald-green",
+    "hex": "#1E5B45",
+    "image": "https://picsum.photos/seed/col-15/900/1200",
+    "order": 15,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "col_17",
+    "name": "Copper & Rose Gold",
+    "slug": "copper-rose-gold",
+    "hex": "#B87333",
+    "image": "https://picsum.photos/seed/col-16/900/1200",
+    "order": 16,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  }
+]

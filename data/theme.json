@@ -1,0 +1,22 @@
+{
+  "siteName": "Aurelia Walls",
+  "tagline": "Luxury Wallpaper House",
+  "colors": {
+    "primary": "#B79A61",
+    "secondary": "#555E47",
+    "accent": "#DDD0BE",
+    "background": "#F8F5EE",
+    "surface": "#FFFFFF",
+    "text": "#30251F",
+    "headerBg": "#F8F5EE",
+    "footerBg": "#30251F",
+    "muted": "#8A7B6B"
+  },
+  "fonts": {
+    "heading": "Playfair Display",
+    "body": "Inter"
+  },
+  "radius": "sm",
+  "buttonStyle": "solid",
+  "animationLevel": "full"
+}

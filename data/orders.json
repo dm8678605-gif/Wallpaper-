@@ -1,0 +1,43 @@
+[
+  {
+    "id": "ORD-2026-480169",
+    "customerName": "9694142555",
+    "email": "devrajmeena3855@gmail.com",
+    "phone": "07850892287",
+    "address": "Kapren balapura nahar ke pass   ward 21  Pincode 323301",
+    "city": "Bundi",
+    "state": "Rajasthan",
+    "pincode": "323301",
+    "country": "India",
+    "items": [
+      {
+        "productId": "prod_0007",
+        "name": "Safari Sunset G",
+        "slug": "safari-sunset-g",
+        "image": "https://picsum.photos/seed/prod-6-0/900/1200",
+        "widthFt": 10,
+        "heightFt": 8,
+        "walls": 1,
+        "areaSqft": 93.6,
+        "wastagePercent": 17,
+        "quantity": 1,
+        "unitPrice": 181,
+        "installationPerSqft": 12,
+        "lineTotal": 21905.28
+      }
+    ],
+    "subtotal": 18064.8,
+    "discount": 0,
+    "installationTotal": 1123.2,
+    "shippingCharge": 499,
+    "taxPercent": 18,
+    "taxAmount": 3341.48,
+    "total": 21905.28,
+    "paymentMethod": "whatsapp",
+    "paymentStatus": "pending",
+    "status": "pending",
+    "notes": "",
+    "createdAt": "2026-11-25T03:34:49.583Z",
+    "updatedAt": "2026-11-25T03:34:49.583Z"
+  }
+]

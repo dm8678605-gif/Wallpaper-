@@ -1,0 +1,12 @@
+[
+  {
+    "id": "med_1",
+    "filename": "hero-1.jpg",
+    "url": "https://picsum.photos/seed/hero-1/1600/900",
+    "mimeType": "image/jpeg",
+    "size": 0,
+    "folder": "banners",
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  }
+]

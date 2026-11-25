@@ -1,0 +1,358 @@
+[
+  {
+    "id": "proj_1",
+    "title": "Residence 1 — Floral Wallpapers",
+    "client": "Client A",
+    "location": "Mumbai",
+    "description": "A luxury residential project featuring floral wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-0-0/1200/800",
+      "https://picsum.photos/seed/proj-0-1/1200/800"
+    ],
+    "categoryId": "cat_1",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_2",
+    "title": "Residence 2 — Geometric Wallpapers",
+    "client": "Client B",
+    "location": "Delhi",
+    "description": "A luxury residential project featuring geometric wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-1-0/1200/800",
+      "https://picsum.photos/seed/proj-1-1/1200/800"
+    ],
+    "categoryId": "cat_2",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_3",
+    "title": "Residence 3 — Textured Wallpapers",
+    "client": "Client C",
+    "location": "Bengaluru",
+    "description": "A luxury residential project featuring textured wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-2-0/1200/800",
+      "https://picsum.photos/seed/proj-2-1/1200/800"
+    ],
+    "categoryId": "cat_3",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_4",
+    "title": "Residence 4 — Abstract Wallpapers",
+    "client": "Client D",
+    "location": "Goa",
+    "description": "A luxury residential project featuring abstract wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-3-0/1200/800",
+      "https://picsum.photos/seed/proj-3-1/1200/800"
+    ],
+    "categoryId": "cat_4",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_5",
+    "title": "Residence 5 — Damask & Classic",
+    "client": "Client E",
+    "location": "Pune",
+    "description": "A luxury residential project featuring damask & classic throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-4-0/1200/800",
+      "https://picsum.photos/seed/proj-4-1/1200/800"
+    ],
+    "categoryId": "cat_5",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_6",
+    "title": "Residence 6 — Children's Wallpapers",
+    "client": "Client F",
+    "location": "Jaipur",
+    "description": "A luxury residential project featuring children's wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-5-0/1200/800",
+      "https://picsum.photos/seed/proj-5-1/1200/800"
+    ],
+    "categoryId": "cat_6",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_7",
+    "title": "Residence 7 — Nature Wallpapers",
+    "client": "Client G",
+    "location": "Mumbai",
+    "description": "A luxury residential project featuring nature wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-6-0/1200/800",
+      "https://picsum.photos/seed/proj-6-1/1200/800"
+    ],
+    "categoryId": "cat_7",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_8",
+    "title": "Residence 8 — Metallic & Luxe",
+    "client": "Client H",
+    "location": "Delhi",
+    "description": "A luxury residential project featuring metallic & luxe throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-7-0/1200/800",
+      "https://picsum.photos/seed/proj-7-1/1200/800"
+    ],
+    "categoryId": "cat_8",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_9",
+    "title": "Residence 9 — Murals & Wall Art",
+    "client": "Client I",
+    "location": "Bengaluru",
+    "description": "A luxury residential project featuring murals & wall art throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-8-0/1200/800",
+      "https://picsum.photos/seed/proj-8-1/1200/800"
+    ],
+    "categoryId": "cat_9",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_10",
+    "title": "Residence 10 — Striped & Linear",
+    "client": "Client J",
+    "location": "Goa",
+    "description": "A luxury residential project featuring striped & linear throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-9-0/1200/800",
+      "https://picsum.photos/seed/proj-9-1/1200/800"
+    ],
+    "categoryId": "cat_10",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_11",
+    "title": "Residence 11 — Art Deco & Vintage",
+    "client": "Client K",
+    "location": "Pune",
+    "description": "A luxury residential project featuring art deco & vintage throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-10-0/1200/800",
+      "https://picsum.photos/seed/proj-10-1/1200/800"
+    ],
+    "categoryId": "cat_11",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "proj_12",
+    "title": "Residence 12 — Religious & Spiritual",
+    "client": "Client L",
+    "location": "Jaipur",
+    "description": "A luxury residential project featuring religious & spiritual throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-11-0/1200/800",
+      "https://picsum.photos/seed/proj-11-1/1200/800"
+    ],
+    "categoryId": "cat_12",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "ba_1",
+    "title": "Residence 1 — Floral Wallpapers",
+    "client": "Client A",
+    "location": "Mumbai",
+    "description": "A luxury residential project featuring floral wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-0-0/1200/800",
+      "https://picsum.photos/seed/proj-0-1/1200/800"
+    ],
+    "categoryId": "cat_1",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-0/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-0/1600/900"
+  },
+  {
+    "id": "ba_2",
+    "title": "Residence 2 — Geometric Wallpapers",
+    "client": "Client B",
+    "location": "Delhi",
+    "description": "A luxury residential project featuring geometric wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-1-0/1200/800",
+      "https://picsum.photos/seed/proj-1-1/1200/800"
+    ],
+    "categoryId": "cat_2",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-1/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-1/1600/900"
+  },
+  {
+    "id": "ba_3",
+    "title": "Residence 3 — Textured Wallpapers",
+    "client": "Client C",
+    "location": "Bengaluru",
+    "description": "A luxury residential project featuring textured wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-2-0/1200/800",
+      "https://picsum.photos/seed/proj-2-1/1200/800"
+    ],
+    "categoryId": "cat_3",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-2/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-2/1600/900"
+  },
+  {
+    "id": "ba_4",
+    "title": "Residence 4 — Abstract Wallpapers",
+    "client": "Client D",
+    "location": "Goa",
+    "description": "A luxury residential project featuring abstract wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-3-0/1200/800",
+      "https://picsum.photos/seed/proj-3-1/1200/800"
+    ],
+    "categoryId": "cat_4",
+    "featured": true,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-3/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-3/1600/900"
+  },
+  {
+    "id": "ba_5",
+    "title": "Residence 5 — Damask & Classic",
+    "client": "Client E",
+    "location": "Pune",
+    "description": "A luxury residential project featuring damask & classic throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-4-0/1200/800",
+      "https://picsum.photos/seed/proj-4-1/1200/800"
+    ],
+    "categoryId": "cat_5",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-4/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-4/1600/900"
+  },
+  {
+    "id": "ba_6",
+    "title": "Residence 6 — Children's Wallpapers",
+    "client": "Client F",
+    "location": "Jaipur",
+    "description": "A luxury residential project featuring children's wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-5-0/1200/800",
+      "https://picsum.photos/seed/proj-5-1/1200/800"
+    ],
+    "categoryId": "cat_6",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-5/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-5/1600/900"
+  },
+  {
+    "id": "ba_7",
+    "title": "Residence 7 — Nature Wallpapers",
+    "client": "Client G",
+    "location": "Mumbai",
+    "description": "A luxury residential project featuring nature wallpapers throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-6-0/1200/800",
+      "https://picsum.photos/seed/proj-6-1/1200/800"
+    ],
+    "categoryId": "cat_7",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-6/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-6/1600/900"
+  },
+  {
+    "id": "ba_8",
+    "title": "Residence 8 — Metallic & Luxe",
+    "client": "Client H",
+    "location": "Delhi",
+    "description": "A luxury residential project featuring metallic & luxe throughout the principal rooms.",
+    "images": [
+      "https://picsum.photos/seed/proj-7-0/1200/800",
+      "https://picsum.photos/seed/proj-7-1/1200/800"
+    ],
+    "categoryId": "cat_8",
+    "featured": false,
+    "published": true,
+    "sample": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z",
+    "beforeImage": "https://picsum.photos/seed/before-7/1600/900",
+    "afterImage": "https://picsum.photos/seed/after-7/1600/900"
+  }
+]

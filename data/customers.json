@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cus_2db156133a456c6e",
+    "name": "9694142555",
+    "email": "devrajmeena3855@gmail.com",
+    "phone": "07850892287",
+    "addresses": [
+      {
+        "label": "Home",
+        "address": "Kapren balapura nahar ke pass   ward 21  Pincode 323301",
+        "city": "Bundi",
+        "state": "Rajasthan",
+        "pincode": "323301",
+        "country": "India"
+      }
+    ],
+    "orderCount": 1,
+    "totalSpent": 21905.28,
+    "createdAt": "2026-11-25T03:34:49.587Z",
+    "updatedAt": "2026-11-25T03:34:49.587Z"
+  }
+]

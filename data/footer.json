@@ -1,0 +1,95 @@
+{
+  "columns": [
+    {
+      "title": "Shop",
+      "links": [
+        {
+          "label": "All Wallpapers",
+          "href": "/shop"
+        },
+        {
+          "label": "Collections",
+          "href": "/collections"
+        },
+        {
+          "label": "Shop by Room",
+          "href": "/rooms"
+        },
+        {
+          "label": "Shop by Colour",
+          "href": "/colours"
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "links": [
+        {
+          "label": "Wallpaper Calculator",
+          "href": "/calculator"
+        },
+        {
+          "label": "Samples",
+          "href": "/samples"
+        },
+        {
+          "label": "Custom Design",
+          "href": "/custom-design"
+        },
+        {
+          "label": "Installation",
+          "href": "/installation"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "links": [
+        {
+          "label": "About Us",
+          "href": "/about"
+        },
+        {
+          "label": "Our Projects",
+          "href": "/projects"
+        },
+        {
+          "label": "Before & After",
+          "href": "/before-after"
+        },
+        {
+          "label": "Journal",
+          "href": "/blog"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy"
+        },
+        {
+          "label": "Terms of Service",
+          "href": "/terms"
+        },
+        {
+          "label": "Shipping",
+          "href": "/shipping"
+        },
+        {
+          "label": "Returns",
+          "href": "/returns"
+        }
+      ]
+    }
+  ],
+  "aboutText": "Curated luxury wallpaper collections for the extraordinary home.",
+  "showNewsletter": true,
+  "showSocial": true
+}

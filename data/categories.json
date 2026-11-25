@@ -1,0 +1,962 @@
+[
+  {
+    "id": "cat_1",
+    "name": "Floral Wallpapers",
+    "slug": "floral-wallpapers",
+    "description": "Lush blooms, hand-painted florals and botanical prints.",
+    "image": "https://picsum.photos/seed/cat-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-0/1600/900",
+    "parentId": null,
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Floral Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_2",
+    "name": "Geometric Wallpapers",
+    "slug": "geometric-wallpapers",
+    "description": "Precision patterns — grids, tessellations and lines.",
+    "image": "https://picsum.photos/seed/cat-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-1/1600/900",
+    "parentId": null,
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Geometric Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_3",
+    "name": "Textured Wallpapers",
+    "slug": "textured-wallpapers",
+    "description": "Grasscloth, silk, linen and tactile finishes.",
+    "image": "https://picsum.photos/seed/cat-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-2/1600/900",
+    "parentId": null,
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Textured Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_4",
+    "name": "Abstract Wallpapers",
+    "slug": "abstract-wallpapers",
+    "description": "Modern art-inspired colour fields and shapes.",
+    "image": "https://picsum.photos/seed/cat-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-3/1600/900",
+    "parentId": null,
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Abstract Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_5",
+    "name": "Damask & Classic",
+    "slug": "damask-classic",
+    "description": "Timeless damasks, toiles and heritage patterns.",
+    "image": "https://picsum.photos/seed/cat-4/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-4/1600/900",
+    "parentId": null,
+    "order": 4,
+    "published": true,
+    "seo": {
+      "title": "Damask & Classic | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_6",
+    "name": "Children's Wallpapers",
+    "slug": "children-s-wallpapers",
+    "description": "Playful, safe and delightful designs for young rooms.",
+    "image": "https://picsum.photos/seed/cat-5/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-5/1600/900",
+    "parentId": null,
+    "order": 5,
+    "published": true,
+    "seo": {
+      "title": "Children's Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_7",
+    "name": "Nature Wallpapers",
+    "slug": "nature-wallpapers",
+    "description": "Landscapes, forests, skies and organic textures.",
+    "image": "https://picsum.photos/seed/cat-6/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-6/1600/900",
+    "parentId": null,
+    "order": 6,
+    "published": true,
+    "seo": {
+      "title": "Nature Wallpapers | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_8",
+    "name": "Metallic & Luxe",
+    "slug": "metallic-luxe",
+    "description": "Gold, silver and pearlescent luxury finishes.",
+    "image": "https://picsum.photos/seed/cat-7/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-7/1600/900",
+    "parentId": null,
+    "order": 7,
+    "published": true,
+    "seo": {
+      "title": "Metallic & Luxe | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_9",
+    "name": "Murals & Wall Art",
+    "slug": "murals-wall-art",
+    "description": "Large-scale murals and photographic wall art.",
+    "image": "https://picsum.photos/seed/cat-8/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-8/1600/900",
+    "parentId": null,
+    "order": 8,
+    "published": true,
+    "seo": {
+      "title": "Murals & Wall Art | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_10",
+    "name": "Striped & Linear",
+    "slug": "striped-linear",
+    "description": "Stripes, pinstripes and rhythmic linear patterns.",
+    "image": "https://picsum.photos/seed/cat-9/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-9/1600/900",
+    "parentId": null,
+    "order": 9,
+    "published": true,
+    "seo": {
+      "title": "Striped & Linear | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_11",
+    "name": "Art Deco & Vintage",
+    "slug": "art-deco-vintage",
+    "description": "Gatsby-era glamour and nostalgic charm.",
+    "image": "https://picsum.photos/seed/cat-10/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-10/1600/900",
+    "parentId": null,
+    "order": 10,
+    "published": true,
+    "seo": {
+      "title": "Art Deco & Vintage | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_12",
+    "name": "Religious & Spiritual",
+    "slug": "religious-spiritual",
+    "description": "Sacred motifs, mandalas and devotional designs.",
+    "image": "https://picsum.photos/seed/cat-11/900/1200",
+    "bannerImage": "https://picsum.photos/seed/catb-11/1600/900",
+    "parentId": null,
+    "order": 11,
+    "published": true,
+    "seo": {
+      "title": "Religious & Spiritual | Luxury Wallpaper"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_1_1",
+    "name": "Hand-Painted Florals",
+    "slug": "floral-wallpapers-hand-painted-florals",
+    "description": "Hand-Painted Florals within Floral Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-0-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-0-0/1600/900",
+    "parentId": "cat_1",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Hand-Painted Florals | Floral Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_1_2",
+    "name": "Botanical Prints",
+    "slug": "floral-wallpapers-botanical-prints",
+    "description": "Botanical Prints within Floral Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-0-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-0-1/1600/900",
+    "parentId": "cat_1",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Botanical Prints | Floral Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_1_3",
+    "name": "Watercolour Florals",
+    "slug": "floral-wallpapers-watercolour-florals",
+    "description": "Watercolour Florals within Floral Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-0-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-0-2/1600/900",
+    "parentId": "cat_1",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Watercolour Florals | Floral Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_1_4",
+    "name": "Dark Florals",
+    "slug": "floral-wallpapers-dark-florals",
+    "description": "Dark Florals within Floral Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-0-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-0-3/1600/900",
+    "parentId": "cat_1",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Dark Florals | Floral Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_2_1",
+    "name": "Grid Patterns",
+    "slug": "geometric-wallpapers-grid-patterns",
+    "description": "Grid Patterns within Geometric Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-1-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-1-0/1600/900",
+    "parentId": "cat_2",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Grid Patterns | Geometric Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_2_2",
+    "name": "Tessellations",
+    "slug": "geometric-wallpapers-tessellations",
+    "description": "Tessellations within Geometric Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-1-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-1-1/1600/900",
+    "parentId": "cat_2",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Tessellations | Geometric Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_2_3",
+    "name": "Linear Geometrics",
+    "slug": "geometric-wallpapers-linear-geometrics",
+    "description": "Linear Geometrics within Geometric Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-1-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-1-2/1600/900",
+    "parentId": "cat_2",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Linear Geometrics | Geometric Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_2_4",
+    "name": "3D Geometrics",
+    "slug": "geometric-wallpapers-3d-geometrics",
+    "description": "3D Geometrics within Geometric Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-1-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-1-3/1600/900",
+    "parentId": "cat_2",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "3D Geometrics | Geometric Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_3_1",
+    "name": "Grasscloth",
+    "slug": "textured-wallpapers-grasscloth",
+    "description": "Grasscloth within Textured Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-2-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-2-0/1600/900",
+    "parentId": "cat_3",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Grasscloth | Textured Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_3_2",
+    "name": "Silk & Satin",
+    "slug": "textured-wallpapers-silk-satin",
+    "description": "Silk & Satin within Textured Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-2-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-2-1/1600/900",
+    "parentId": "cat_3",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Silk & Satin | Textured Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_3_3",
+    "name": "Linen & Fabric",
+    "slug": "textured-wallpapers-linen-fabric",
+    "description": "Linen & Fabric within Textured Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-2-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-2-2/1600/900",
+    "parentId": "cat_3",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Linen & Fabric | Textured Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_3_4",
+    "name": "Venetian Plaster",
+    "slug": "textured-wallpapers-venetian-plaster",
+    "description": "Venetian Plaster within Textured Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-2-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-2-3/1600/900",
+    "parentId": "cat_3",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Venetian Plaster | Textured Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_4_1",
+    "name": "Colour Fields",
+    "slug": "abstract-wallpapers-colour-fields",
+    "description": "Colour Fields within Abstract Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-3-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-3-0/1600/900",
+    "parentId": "cat_4",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Colour Fields | Abstract Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_4_2",
+    "name": "Expressionist",
+    "slug": "abstract-wallpapers-expressionist",
+    "description": "Expressionist within Abstract Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-3-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-3-1/1600/900",
+    "parentId": "cat_4",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Expressionist | Abstract Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_4_3",
+    "name": "Minimalist Art",
+    "slug": "abstract-wallpapers-minimalist-art",
+    "description": "Minimalist Art within Abstract Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-3-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-3-2/1600/900",
+    "parentId": "cat_4",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Minimalist Art | Abstract Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_4_4",
+    "name": "Mixed Media",
+    "slug": "abstract-wallpapers-mixed-media",
+    "description": "Mixed Media within Abstract Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-3-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-3-3/1600/900",
+    "parentId": "cat_4",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Mixed Media | Abstract Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_5_1",
+    "name": "Damask",
+    "slug": "damask-classic-damask",
+    "description": "Damask within Damask & Classic.",
+    "image": "https://picsum.photos/seed/sub-4-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-4-0/1600/900",
+    "parentId": "cat_5",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Damask | Damask & Classic"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_5_2",
+    "name": "Toile de Jouy",
+    "slug": "damask-classic-toile-de-jouy",
+    "description": "Toile de Jouy within Damask & Classic.",
+    "image": "https://picsum.photos/seed/sub-4-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-4-1/1600/900",
+    "parentId": "cat_5",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Toile de Jouy | Damask & Classic"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_5_3",
+    "name": "Heritage Florals",
+    "slug": "damask-classic-heritage-florals",
+    "description": "Heritage Florals within Damask & Classic.",
+    "image": "https://picsum.photos/seed/sub-4-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-4-2/1600/900",
+    "parentId": "cat_5",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Heritage Florals | Damask & Classic"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_5_4",
+    "name": "Medallion",
+    "slug": "damask-classic-medallion",
+    "description": "Medallion within Damask & Classic.",
+    "image": "https://picsum.photos/seed/sub-4-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-4-3/1600/900",
+    "parentId": "cat_5",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Medallion | Damask & Classic"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_6_1",
+    "name": "Animals",
+    "slug": "children-s-wallpapers-animals",
+    "description": "Animals within Children's Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-5-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-5-0/1600/900",
+    "parentId": "cat_6",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Animals | Children's Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_6_2",
+    "name": "Space & Planets",
+    "slug": "children-s-wallpapers-space-planets",
+    "description": "Space & Planets within Children's Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-5-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-5-1/1600/900",
+    "parentId": "cat_6",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Space & Planets | Children's Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_6_3",
+    "name": "Jungle & Forest",
+    "slug": "children-s-wallpapers-jungle-forest",
+    "description": "Jungle & Forest within Children's Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-5-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-5-2/1600/900",
+    "parentId": "cat_6",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Jungle & Forest | Children's Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_6_4",
+    "name": "Fairy Tales",
+    "slug": "children-s-wallpapers-fairy-tales",
+    "description": "Fairy Tales within Children's Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-5-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-5-3/1600/900",
+    "parentId": "cat_6",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Fairy Tales | Children's Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_7_1",
+    "name": "Landscapes",
+    "slug": "nature-wallpapers-landscapes",
+    "description": "Landscapes within Nature Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-6-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-6-0/1600/900",
+    "parentId": "cat_7",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Landscapes | Nature Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_7_2",
+    "name": "Forest & Jungle",
+    "slug": "nature-wallpapers-forest-jungle",
+    "description": "Forest & Jungle within Nature Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-6-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-6-1/1600/900",
+    "parentId": "cat_7",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Forest & Jungle | Nature Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_7_3",
+    "name": "Sky & Clouds",
+    "slug": "nature-wallpapers-sky-clouds",
+    "description": "Sky & Clouds within Nature Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-6-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-6-2/1600/900",
+    "parentId": "cat_7",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Sky & Clouds | Nature Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_7_4",
+    "name": "Stone & Marble",
+    "slug": "nature-wallpapers-stone-marble",
+    "description": "Stone & Marble within Nature Wallpapers.",
+    "image": "https://picsum.photos/seed/sub-6-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-6-3/1600/900",
+    "parentId": "cat_7",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Stone & Marble | Nature Wallpapers"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_8_1",
+    "name": "Gold Foil",
+    "slug": "metallic-luxe-gold-foil",
+    "description": "Gold Foil within Metallic & Luxe.",
+    "image": "https://picsum.photos/seed/sub-7-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-7-0/1600/900",
+    "parentId": "cat_8",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Gold Foil | Metallic & Luxe"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_8_2",
+    "name": "Silver & Platinum",
+    "slug": "metallic-luxe-silver-platinum",
+    "description": "Silver & Platinum within Metallic & Luxe.",
+    "image": "https://picsum.photos/seed/sub-7-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-7-1/1600/900",
+    "parentId": "cat_8",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Silver & Platinum | Metallic & Luxe"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_8_3",
+    "name": "Pearlescent",
+    "slug": "metallic-luxe-pearlescent",
+    "description": "Pearlescent within Metallic & Luxe.",
+    "image": "https://picsum.photos/seed/sub-7-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-7-2/1600/900",
+    "parentId": "cat_8",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Pearlescent | Metallic & Luxe"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_8_4",
+    "name": "Copper & Bronze",
+    "slug": "metallic-luxe-copper-bronze",
+    "description": "Copper & Bronze within Metallic & Luxe.",
+    "image": "https://picsum.photos/seed/sub-7-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-7-3/1600/900",
+    "parentId": "cat_8",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Copper & Bronze | Metallic & Luxe"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_9_1",
+    "name": "Panoramic Murals",
+    "slug": "murals-wall-art-panoramic-murals",
+    "description": "Panoramic Murals within Murals & Wall Art.",
+    "image": "https://picsum.photos/seed/sub-8-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-8-0/1600/900",
+    "parentId": "cat_9",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Panoramic Murals | Murals & Wall Art"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_9_2",
+    "name": "Illustrated Murals",
+    "slug": "murals-wall-art-illustrated-murals",
+    "description": "Illustrated Murals within Murals & Wall Art.",
+    "image": "https://picsum.photos/seed/sub-8-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-8-1/1600/900",
+    "parentId": "cat_9",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Illustrated Murals | Murals & Wall Art"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_9_3",
+    "name": "Photographic Murals",
+    "slug": "murals-wall-art-photographic-murals",
+    "description": "Photographic Murals within Murals & Wall Art.",
+    "image": "https://picsum.photos/seed/sub-8-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-8-2/1600/900",
+    "parentId": "cat_9",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Photographic Murals | Murals & Wall Art"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_9_4",
+    "name": "Map Murals",
+    "slug": "murals-wall-art-map-murals",
+    "description": "Map Murals within Murals & Wall Art.",
+    "image": "https://picsum.photos/seed/sub-8-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-8-3/1600/900",
+    "parentId": "cat_9",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Map Murals | Murals & Wall Art"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_10_1",
+    "name": "Pinstripes",
+    "slug": "striped-linear-pinstripes",
+    "description": "Pinstripes within Striped & Linear.",
+    "image": "https://picsum.photos/seed/sub-9-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-9-0/1600/900",
+    "parentId": "cat_10",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Pinstripes | Striped & Linear"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_10_2",
+    "name": "Bold Stripes",
+    "slug": "striped-linear-bold-stripes",
+    "description": "Bold Stripes within Striped & Linear.",
+    "image": "https://picsum.photos/seed/sub-9-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-9-1/1600/900",
+    "parentId": "cat_10",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Bold Stripes | Striped & Linear"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_10_3",
+    "name": "Diagonal Lines",
+    "slug": "striped-linear-diagonal-lines",
+    "description": "Diagonal Lines within Striped & Linear.",
+    "image": "https://picsum.photos/seed/sub-9-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-9-2/1600/900",
+    "parentId": "cat_10",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Diagonal Lines | Striped & Linear"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_10_4",
+    "name": "Chevron",
+    "slug": "striped-linear-chevron",
+    "description": "Chevron within Striped & Linear.",
+    "image": "https://picsum.photos/seed/sub-9-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-9-3/1600/900",
+    "parentId": "cat_10",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Chevron | Striped & Linear"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_11_1",
+    "name": "Art Deco",
+    "slug": "art-deco-vintage-art-deco",
+    "description": "Art Deco within Art Deco & Vintage.",
+    "image": "https://picsum.photos/seed/sub-10-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-10-0/1600/900",
+    "parentId": "cat_11",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Art Deco | Art Deco & Vintage"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_11_2",
+    "name": "Mid-Century",
+    "slug": "art-deco-vintage-mid-century",
+    "description": "Mid-Century within Art Deco & Vintage.",
+    "image": "https://picsum.photos/seed/sub-10-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-10-1/1600/900",
+    "parentId": "cat_11",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Mid-Century | Art Deco & Vintage"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_11_3",
+    "name": "Victorian",
+    "slug": "art-deco-vintage-victorian",
+    "description": "Victorian within Art Deco & Vintage.",
+    "image": "https://picsum.photos/seed/sub-10-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-10-2/1600/900",
+    "parentId": "cat_11",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Victorian | Art Deco & Vintage"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_11_4",
+    "name": "Retro 70s",
+    "slug": "art-deco-vintage-retro-70s",
+    "description": "Retro 70s within Art Deco & Vintage.",
+    "image": "https://picsum.photos/seed/sub-10-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-10-3/1600/900",
+    "parentId": "cat_11",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Retro 70s | Art Deco & Vintage"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_12_1",
+    "name": "Mandala",
+    "slug": "religious-spiritual-mandala",
+    "description": "Mandala within Religious & Spiritual.",
+    "image": "https://picsum.photos/seed/sub-11-0/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-11-0/1600/900",
+    "parentId": "cat_12",
+    "order": 0,
+    "published": true,
+    "seo": {
+      "title": "Mandala | Religious & Spiritual"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_12_2",
+    "name": "Sacred Geometry",
+    "slug": "religious-spiritual-sacred-geometry",
+    "description": "Sacred Geometry within Religious & Spiritual.",
+    "image": "https://picsum.photos/seed/sub-11-1/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-11-1/1600/900",
+    "parentId": "cat_12",
+    "order": 1,
+    "published": true,
+    "seo": {
+      "title": "Sacred Geometry | Religious & Spiritual"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_12_3",
+    "name": "Devotional",
+    "slug": "religious-spiritual-devotional",
+    "description": "Devotional within Religious & Spiritual.",
+    "image": "https://picsum.photos/seed/sub-11-2/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-11-2/1600/900",
+    "parentId": "cat_12",
+    "order": 2,
+    "published": true,
+    "seo": {
+      "title": "Devotional | Religious & Spiritual"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "cat_12_4",
+    "name": "Spiritual Quotes",
+    "slug": "religious-spiritual-spiritual-quotes",
+    "description": "Spiritual Quotes within Religious & Spiritual.",
+    "image": "https://picsum.photos/seed/sub-11-3/900/1200",
+    "bannerImage": "https://picsum.photos/seed/subb-11-3/1600/900",
+    "parentId": "cat_12",
+    "order": 3,
+    "published": true,
+    "seo": {
+      "title": "Spiritual Quotes | Religious & Spiritual"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  }
+]

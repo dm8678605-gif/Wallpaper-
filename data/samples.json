@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sam_5a25192d035b7726",
+    "name": "9694142555",
+    "email": "devrajmeena3855@gmail.com",
+    "phone": "07850892287",
+    "productIds": [
+      "prod_0002"
+    ],
+    "address": "Kapren balapura nahar ke pass   ward 21  Pincode 323301",
+    "status": "shipped",
+    "createdAt": "2026-11-24T18:59:38.763Z",
+    "updatedAt": "2026-11-25T03:27:29.113Z"
+  }
+]

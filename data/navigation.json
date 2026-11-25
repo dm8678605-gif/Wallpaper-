@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "nav_1",
+      "label": "Home",
+      "href": "/",
+      "order": 0,
+      "visible": true
+    },
+    {
+      "id": "nav_2",
+      "label": "Shop",
+      "href": "/shop",
+      "order": 1,
+      "visible": true,
+      "children": [
+        {
+          "id": "nav_2a",
+          "label": "All Wallpapers",
+          "href": "/shop",
+          "order": 0,
+          "visible": true
+        },
+        {
+          "id": "nav_2b",
+          "label": "Collections",
+          "href": "/collections",
+          "order": 1,
+          "visible": true
+        },
+        {
+          "id": "nav_2c",
+          "label": "Shop by Style",
+          "href": "/styles",
+          "order": 2,
+          "visible": true
+        },
+        {
+          "id": "nav_2d",
+          "label": "Shop by Room",
+          "href": "/rooms",
+          "order": 3,
+          "visible": true
+        },
+        {
+          "id": "nav_2e",
+          "label": "Shop by Colour",
+          "href": "/colours",
+          "order": 4,
+          "visible": true
+        },
+        {
+          "id": "nav_2f",
+          "label": "Shop by Material",
+          "href": "/materials",
+          "order": 5,
+          "visible": true
+        }
+      ]
+    },
+    {
+      "id": "nav_3",
+      "label": "Calculator",
+      "href": "/calculator",
+      "order": 2,
+      "visible": true
+    },
+    {
+      "id": "nav_4",
+      "label": "Samples",
+      "href": "/samples",
+      "order": 3,
+      "visible": true
+    },
+    {
+      "id": "nav_5",
+      "label": "Custom Design",
+      "href": "/custom-design",
+      "order": 4,
+      "visible": true
+    },
+    {
+      "id": "nav_6",
+      "label": "Inspiration",
+      "href": "/inspiration",
+      "order": 5,
+      "visible": true
+    },
+    {
+      "id": "nav_7",
+      "label": "Journal",
+      "href": "/blog",
+      "order": 6,
+      "visible": true
+    },
+    {
+      "id": "nav_8",
+      "label": "About",
+      "href": "/about",
+      "order": 7,
+      "visible": true
+    },
+    {
+      "id": "nav_9",
+      "label": "Contact",
+      "href": "/contact",
+      "order": 8,
+      "visible": true
+    }
+  ]
+}

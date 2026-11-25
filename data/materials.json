@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mat_1",
+    "name": "Non-Woven Cellulose",
+    "slug": "non-woven-cellulose",
+    "description": "Breathable, eco-friendly and easy to install.",
+    "pricePerSqft": 55,
+    "image": "https://picsum.photos/seed/mat-0/900/1200",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_2",
+    "name": "Vinyl (PVC)",
+    "slug": "vinyl-pvc",
+    "description": "Water-resistant, wipe-clean and durable.",
+    "pricePerSqft": 75,
+    "image": "https://picsum.photos/seed/mat-1/900/1200",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_3",
+    "name": "Grasscloth",
+    "slug": "grasscloth",
+    "description": "Natural fibres with rich organic texture.",
+    "pricePerSqft": 140,
+    "image": "https://picsum.photos/seed/mat-2/900/1200",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_4",
+    "name": "Silk Effect",
+    "slug": "silk-effect",
+    "description": "Lustrous sheen resembling real silk.",
+    "pricePerSqft": 120,
+    "image": "https://picsum.photos/seed/mat-3/900/1200",
+    "order": 3,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_5",
+    "name": "Linen & Fabric",
+    "slug": "linen-fabric",
+    "description": "Soft textile look with a matte finish.",
+    "pricePerSqft": 110,
+    "image": "https://picsum.photos/seed/mat-4/900/1200",
+    "order": 4,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_6",
+    "name": "Foil Metallic",
+    "slug": "foil-metallic",
+    "description": "Metallic accents and reflective surfaces.",
+    "pricePerSqft": 165,
+    "image": "https://picsum.photos/seed/mat-5/900/1200",
+    "order": 5,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_7",
+    "name": "Mica & Mineral",
+    "slug": "mica-mineral",
+    "description": "Natural stone-effect with subtle shimmer.",
+    "pricePerSqft": 150,
+    "image": "https://picsum.photos/seed/mat-6/900/1200",
+    "order": 6,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_8",
+    "name": "Acoustic Felt",
+    "slug": "acoustic-felt",
+    "description": "Sound-absorbing panels for quiet luxury.",
+    "pricePerSqft": 185,
+    "image": "https://picsum.photos/seed/mat-7/900/1200",
+    "order": 7,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_9",
+    "name": "Bamboo & Jute",
+    "slug": "bamboo-jute",
+    "description": "Sustainable natural textures.",
+    "pricePerSqft": 95,
+    "image": "https://picsum.photos/seed/mat-8/900/1200",
+    "order": 8,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "mat_10",
+    "name": "3D Sculpted",
+    "slug": "3d-sculpted",
+    "description": "Dimensional raised patterns.",
+    "pricePerSqft": 175,
+    "image": "https://picsum.photos/seed/mat-9/900/1200",
+    "order": 9,
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  }
+]

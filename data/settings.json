@@ -1,0 +1,54 @@
+{
+  "business": {
+    "name": "Aurelia Walls (Demo)",
+    "email": "hello@example.com",
+    "phone": "+91 00000 00000",
+    "whatsapp": "919000000000",
+    "address": "Sample Address, Demo City",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "country": "India",
+    "gstin": "00AAAAA0000A1Z5",
+    "hours": "Mon–Sat, 10am–7pm"
+  },
+  "currency": {
+    "code": "INR",
+    "symbol": "₹",
+    "position": "before"
+  },
+  "shipping": {
+    "enabled": true,
+    "flatCharge": 499,
+    "freeAbove": 25000,
+    "estimatedDays": "5–9 business days"
+  },
+  "tax": {
+    "enabled": true,
+    "percent": 18,
+    "label": "GST"
+  },
+  "payments": {
+    "cod": {
+      "enabled": true
+    },
+    "online": {
+      "enabled": false
+    },
+    "whatsapp": {
+      "enabled": true
+    }
+  },
+  "calculator": {
+    "defaultWastagePercent": 10,
+    "defaultInstallationPerSqft": 15,
+    "rollWidthFt": 2.05,
+    "taxesEnabled": true
+  },
+  "seo": {
+    "defaultTitle": "Aurelia Walls — Luxury Wallpaper",
+    "defaultDescription": "Curated luxury wallpaper collections for the extraordinary home."
+  },
+  "announcement": "Complimentary shipping on orders above ₹25,000",
+  "demoMode": true
+}

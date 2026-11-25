@@ -1,0 +1,102 @@
+{
+  "sections": [
+    {
+      "id": "hs_1",
+      "type": "hero",
+      "title": "Walls That Tell Your Story",
+      "subtitle": "Luxury wallpaper collections curated for the extraordinary home.",
+      "layout": "carousel",
+      "visible": true,
+      "order": 0
+    },
+    {
+      "id": "hs_2",
+      "type": "categories",
+      "title": "Shop by Style",
+      "subtitle": "Browse our most-loved wallpaper styles",
+      "itemsSource": "categories",
+      "limit": 8,
+      "layout": "grid",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "hs_3",
+      "type": "featured-products",
+      "title": "Featured Wallpapers",
+      "subtitle": "Handpicked designs our clients adore",
+      "itemsSource": "featured",
+      "limit": 8,
+      "layout": "carousel",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "hs_4",
+      "type": "collections",
+      "title": "Curated Collections",
+      "subtitle": "Complete looks for every mood",
+      "itemsSource": "collections",
+      "limit": 6,
+      "layout": "grid",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "hs_5",
+      "type": "editorial",
+      "title": "The Art of the Wall",
+      "content": "Wallpaper is the largest canvas in your home. Our designers believe every wall deserves intention — texture, colour and pattern woven into the story of your space.",
+      "image": "https://picsum.photos/seed/editorial-1/1600/900",
+      "link": "/about",
+      "linkLabel": "Our Story",
+      "layout": "split",
+      "background": "ivory",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "hs_6",
+      "type": "rooms",
+      "title": "Shop by Room",
+      "itemsSource": "rooms",
+      "limit": 8,
+      "layout": "grid",
+      "visible": true,
+      "order": 5
+    },
+    {
+      "id": "hs_7",
+      "type": "colours",
+      "title": "Shop by Colour",
+      "itemsSource": "colours",
+      "limit": 10,
+      "layout": "grid",
+      "visible": true,
+      "order": 6
+    },
+    {
+      "id": "hs_8",
+      "type": "banner",
+      "title": "Need a Custom Design?",
+      "content": "Our studio creates bespoke murals and custom wallpaper designs tailored to your space.",
+      "link": "/custom-design",
+      "linkLabel": "Enquire Now",
+      "image": "https://picsum.photos/seed/cta-1/1600/900",
+      "layout": "editorial",
+      "background": "espresso",
+      "visible": true,
+      "order": 7
+    },
+    {
+      "id": "hs_9",
+      "type": "inspiration",
+      "title": "Inspiration Gallery",
+      "itemsSource": "gallery",
+      "limit": 6,
+      "layout": "grid",
+      "visible": true,
+      "order": 8
+    }
+  ]
+}

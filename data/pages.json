@@ -1,0 +1,184 @@
+[
+  {
+    "id": "page_1",
+    "title": "About Us",
+    "slug": "about",
+    "content": "## Our Story\n\nWelcome to our luxury wallpaper house. We curate wallpaper collections that transform interiors into personal statements of style.\n\n### What We Do\n- Premium wallpaper design and supply\n- Bespoke custom murals and designs\n- Professional installation guidance\n- Sample-first service so you choose with confidence\n\n*This is sample content for demonstration.*",
+    "published": true,
+    "showInNav": true,
+    "showInFooter": true,
+    "seo": {
+      "title": "About Us | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_2",
+    "title": "Shipping & Delivery",
+    "slug": "shipping",
+    "content": "## Shipping Policy\n\nOrders are typically dispatched within 3\u20135 business days. Delivery estimates are shown at checkout.\n\n### Delivery Charges\n- Free shipping on orders above the configured threshold\n- Flat rate shipping otherwise\n\n*Sample content \u2014 replace with your real policy.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Shipping & Delivery | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_3",
+    "title": "Returns & Refunds",
+    "slug": "returns",
+    "content": "## Returns Policy\n\nUnopened rolls can be returned within 7 days of delivery. Custom-cut and made-to-order items are non-returnable.\n\n*Sample content \u2014 replace with your real policy.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Returns & Refunds | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_4",
+    "title": "Privacy Policy",
+    "slug": "privacy",
+    "content": "## Privacy Policy\n\nWe collect only the information needed to process your orders and enquiries. We never sell your data.\n\n*Sample content \u2014 replace with your real policy.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Privacy Policy | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_5",
+    "title": "Terms of Service",
+    "slug": "terms",
+    "content": "## Terms of Service\n\nBy using this website you agree to our terms of sale, pricing and delivery conditions.\n\n*Sample content \u2014 replace with your real terms.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Terms of Service | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_6",
+    "title": "FAQs",
+    "slug": "faqs",
+    "content": "## Frequently Asked Questions\n\n**How do I measure my wall?** Measure width and height in feet; our calculator handles the rest.\n\n**Can I order samples?** Yes \u2014 every product offers a sample option.\n\n**Do you install?** We provide installation guidance; certified installers can be arranged on request.\n\n*Sample content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "FAQs | Wallpaper House"
+    },
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "page_cx",
+    "title": "Cancellation Policy",
+    "slug": "cancellation",
+    "content": "## Cancellation Policy\n\nOrders may be cancelled before dispatch by contacting us. Custom and made-to-order items cannot be cancelled once production begins.\n\n*Sample content \u2014 replace with your real policy.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Cancellation Policy"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_faq",
+    "title": "FAQs",
+    "slug": "faq",
+    "content": "## Frequently Asked Questions\n\n**How do I measure my wall?** Use our wallpaper calculator.\n\n**Can I order samples?** Yes \u2014 every product page offers samples.\n\n**Do you install?** Guidance included; certified installers on request.\n\n*Sample content.*",
+    "published": true,
+    "showInNav": true,
+    "showInFooter": true,
+    "seo": {
+      "title": "FAQs"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_meas",
+    "title": "Measurement Guide",
+    "slug": "measurement-guide",
+    "content": "## How to Measure for Wallpaper\n\n1. Measure wall width and height in feet.\n2. Subtract doors and windows.\n3. Multiply width \u00d7 height \u00d7 number of walls.\n4. Add 10% wastage for pattern matching.\n5. Use our calculator for rolls and pricing.\n\n*Guide content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Measurement Guide"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_mat",
+    "title": "Material Guide",
+    "slug": "material-guide",
+    "content": "## Wallpaper Materials\n\n**Non-Woven** \u2014 breathable, easy to install.\n**Vinyl** \u2014 wipe-clean, durable.\n**Grasscloth & Silk Effect** \u2014 textured luxury.\n**Metallic & Foil** \u2014 reflective accents.\n\n*Guide content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Material Guide"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_care",
+    "title": "Wallpaper Care Guide",
+    "slug": "care-guide",
+    "content": "## Caring for Your Wallpaper\n\nDust regularly with a soft brush. Spot-clean with a damp cloth for washable finishes. Avoid abrasive cleaners and prolonged moisture on non-vinyl products.\n\n*Guide content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Wallpaper Care Guide"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_inst",
+    "title": "Installation Guide",
+    "slug": "installation-guide",
+    "content": "## Installing Wallpaper\n\nPrep the wall, apply adhesive, align the first drop, smooth with a brush, and butt-join remaining drops. Our product pages include per-design instructions.\n\n*Guide content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Installation Guide"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  },
+  {
+    "id": "page_story",
+    "title": "Our Story",
+    "slug": "our-story",
+    "content": "## Our Story\n\nWe curate wallpaper collections that transform interiors into personal statements of style \u2014 from hand-painted Indian heritage motifs to modern minimalist designs.\n\n*Sample content.*",
+    "published": true,
+    "showInNav": false,
+    "showInFooter": true,
+    "seo": {
+      "title": "Our Story"
+    },
+    "createdAt": "2026-01-01",
+    "updatedAt": "2026-01-01"
+  }
+]

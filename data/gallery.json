@@ -1,0 +1,182 @@
+[
+  {
+    "id": "gal_1",
+    "title": "Inspiration 1",
+    "image": "https://picsum.photos/seed/gal-0/800/1000",
+    "category": "Floral Wallpapers",
+    "roomId": "room_1",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_2",
+    "title": "Inspiration 2",
+    "image": "https://picsum.photos/seed/gal-1/800/1000",
+    "category": "Geometric Wallpapers",
+    "roomId": "room_2",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_3",
+    "title": "Inspiration 3",
+    "image": "https://picsum.photos/seed/gal-2/800/1000",
+    "category": "Textured Wallpapers",
+    "roomId": "room_3",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_4",
+    "title": "Inspiration 4",
+    "image": "https://picsum.photos/seed/gal-3/800/1000",
+    "category": "Abstract Wallpapers",
+    "roomId": "room_4",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_5",
+    "title": "Inspiration 5",
+    "image": "https://picsum.photos/seed/gal-4/800/1000",
+    "category": "Damask & Classic",
+    "roomId": "room_5",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_6",
+    "title": "Inspiration 6",
+    "image": "https://picsum.photos/seed/gal-5/800/1000",
+    "category": "Children's Wallpapers",
+    "roomId": "room_6",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_7",
+    "title": "Inspiration 7",
+    "image": "https://picsum.photos/seed/gal-6/800/1000",
+    "category": "Nature Wallpapers",
+    "roomId": "room_7",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_8",
+    "title": "Inspiration 8",
+    "image": "https://picsum.photos/seed/gal-7/800/1000",
+    "category": "Metallic & Luxe",
+    "roomId": "room_8",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_9",
+    "title": "Inspiration 9",
+    "image": "https://picsum.photos/seed/gal-8/800/1000",
+    "category": "Murals & Wall Art",
+    "roomId": "room_9",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_10",
+    "title": "Inspiration 10",
+    "image": "https://picsum.photos/seed/gal-9/800/1000",
+    "category": "Striped & Linear",
+    "roomId": "room_10",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_11",
+    "title": "Inspiration 11",
+    "image": "https://picsum.photos/seed/gal-10/800/1000",
+    "category": "Art Deco & Vintage",
+    "roomId": "room_11",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_12",
+    "title": "Inspiration 12",
+    "image": "https://picsum.photos/seed/gal-11/800/1000",
+    "category": "Religious & Spiritual",
+    "roomId": "room_12",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_13",
+    "title": "Inspiration 13",
+    "image": "https://picsum.photos/seed/gal-12/800/1000",
+    "category": "Floral Wallpapers",
+    "roomId": "room_13",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_14",
+    "title": "Inspiration 14",
+    "image": "https://picsum.photos/seed/gal-13/800/1000",
+    "category": "Geometric Wallpapers",
+    "roomId": "room_14",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_15",
+    "title": "Inspiration 15",
+    "image": "https://picsum.photos/seed/gal-14/800/1000",
+    "category": "Textured Wallpapers",
+    "roomId": "room_15",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_16",
+    "title": "Inspiration 16",
+    "image": "https://picsum.photos/seed/gal-15/800/1000",
+    "category": "Abstract Wallpapers",
+    "roomId": "room_16",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_17",
+    "title": "Inspiration 17",
+    "image": "https://picsum.photos/seed/gal-16/800/1000",
+    "category": "Damask & Classic",
+    "roomId": "room_17",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  },
+  {
+    "id": "gal_18",
+    "title": "Inspiration 18",
+    "image": "https://picsum.photos/seed/gal-17/800/1000",
+    "category": "Children's Wallpapers",
+    "roomId": "room_18",
+    "published": true,
+    "createdAt": "2026-11-24T18:47:55.965Z",
+    "updatedAt": "2026-11-24T18:47:55.965Z"
+  }
+]
