@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createPortal } from "react-dom";
 import { X, Package, CheckCircle } from "lucide-react";
 import type { Product } from "@/lib/data/types";
 
@@ -81,17 +82,17 @@ export function SampleOrderModal({ isOpen, onClose, product, productIds }: Sampl
   const displayProduct = product;
   const samplePrice = displayProduct?.samplePrice || 199;
 
-  return (
+  const modalContent = (
     <>
       {/* Overlay */}
       <div
-        className="fixed inset-0 bg-black/60 z-50"
+        className="fixed inset-0 bg-black/60 z-[9999]"
         onClick={onClose}
         style={{ animation: "fadeIn 0.3s ease-out" }}
       />
 
       {/* Modal */}
-      <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+      <div className="fixed inset-0 z-[10000] flex items-center justify-center p-4">
         <div
           className="bg-[var(--color-surface)] w-full max-w-md max-h-[90vh] overflow-hidden rounded-lg shadow-2xl transform transition-all duration-300 ease-out"
           style={{ animation: "slideUp 0.3s ease-out" }}
@@ -229,4 +230,11 @@ export function SampleOrderModal({ isOpen, onClose, product, productIds }: Sampl
       `}</style>
     </>
   );
+
+  // Render modal at document.body level using createPortal
+  if (typeof document !== "undefined" && document.body) {
+    return createPortal(modalContent, document.body);
+  }
+
+  return modalContent;
 }

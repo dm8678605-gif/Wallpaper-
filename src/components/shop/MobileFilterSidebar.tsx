@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { createPortal } from "react-dom";
 import { X, Filter, ChevronDown, ChevronUp } from "lucide-react";
 import Link from "next/link";
 import type { Category, Collection, Room, Colour, Material, StyleTag } from "@/lib/data/types";
@@ -119,12 +120,12 @@ export function MobileFilterSidebar({
 
   const roots = categories.filter((c) => !c.parentId && c.published);
 
-  return (
+  const sidebarContent = (
     <>
       {/* Overlay */}
       {isOpen && (
         <div
-          className="fixed inset-0 bg-black/60 z-50 lg:hidden"
+          className="fixed inset-0 bg-black/60 z-[9999] lg:hidden"
           onClick={onClose}
           style={{ animation: "fadeIn 0.3s ease-out" }}
         />
@@ -132,7 +133,7 @@ export function MobileFilterSidebar({
 
       {/* Sidebar */}
       <div
-        className={`fixed top-0 left-0 h-full w-[85vw] max-w-sm bg-[var(--color-surface)] z-50 lg:hidden transform transition-transform duration-300 ease-out ${
+        className={`fixed top-0 left-0 h-full w-[85vw] max-w-sm bg-[var(--color-surface)] z-[10000] lg:hidden transform transition-transform duration-300 ease-out ${
           isOpen ? "translate-x-0" : "-translate-x-full"
         }`}
       >
@@ -453,4 +454,11 @@ export function MobileFilterSidebar({
       `}</style>
     </>
   );
+
+  // Render sidebar at document.body level using createPortal
+  if (typeof document !== "undefined" && document.body) {
+    return createPortal(sidebarContent, document.body);
+  }
+
+  return sidebarContent;
 }
