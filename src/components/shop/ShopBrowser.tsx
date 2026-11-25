@@ -3,6 +3,7 @@ import { Search } from "lucide-react";
 import type { Category, Colour, Material, Product, Room, StyleTag, Collection } from "@/lib/data/types";
 import { ProductCard } from "@/components/ui/ProductCard";
 import { Reveal } from "@/components/ui/Reveal";
+import { MobileFilterWrapper } from "./MobileFilterWrapper";
 
 export interface ListingFilters {
   q?: string;
@@ -85,11 +86,21 @@ export function ShopBrowser({
 
   const roots = categories.filter((c) => !c.parentId && c.published);
 
+  // Count active filters for mobile badge
+  const activeFilterCount = [
+    filters.categoryId,
+    filters.collectionId,
+    filters.roomId,
+    filters.colourId,
+    filters.materialId,
+    filters.styleId,
+  ].filter(Boolean).length;
+
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12">
       <div className="flex flex-col lg:flex-row gap-10">
-        {/* Sidebar */}
-        <aside className="lg:w-60 shrink-0">
+        {/* Desktop Sidebar */}
+        <aside className="hidden lg:block lg:w-60 shrink-0">
           <form action="/shop" method="get" className="mb-6">
             {Object.entries(linkBase).filter(([k]) => k !== "q").map(([k, v]) => v ? <input key={k} type="hidden" name={k} value={v} /> : null)}
             <div className="relative">
@@ -143,6 +154,19 @@ export function ShopBrowser({
 
         {/* Grid */}
         <div className="flex-1">
+          <MobileFilterWrapper
+            filters={filters}
+            categories={categories}
+            collections={collections}
+            rooms={rooms}
+            colours={colours}
+            materials={materials}
+            styles={styles}
+            basePath={basePath}
+            linkBase={linkBase}
+            activeFilterCount={activeFilterCount}
+          />
+
           <p className="text-sm text-[var(--color-muted)] mb-6">{total} design{total === 1 ? "" : "s"} found</p>
           {products.length === 0 ? (
             <div className="text-center py-24">

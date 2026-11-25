@@ -108,7 +108,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
                 }}
               />
               {product.samplePrice != null && (
-                <SampleOrderButton productIds={[product.id]} productName={product.name} />
+                <SampleOrderButton product={product} />
               )}
             </div>
 

@@ -34,7 +34,7 @@ export default async function SamplesPage() {
                 <div className="p-4">
                   <Link href={`/product/${p.slug}`} className="font-display text-base hover:text-[var(--color-primary)] transition-colors line-clamp-1">{p.name}</Link>
                   <p className="text-xs text-[var(--color-muted)] mt-1">Sample: <Price amount={p.samplePrice!} /></p>
-                  <SampleOrderButton productIds={[p.id]} />
+                  <SampleOrderButton product={p} />
                 </div>
               </div>
             </Reveal>
