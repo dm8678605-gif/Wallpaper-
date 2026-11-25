@@ -44,6 +44,7 @@ function filePath(key: DataFileKey): string {
 }
 
 export async function ensureDataDir(): Promise<void> {
+  if (isReadOnlyStorage()) return; // Don't try to create dirs on Vercel
   await fsp.mkdir(DATA_DIR, { recursive: true });
   await fsp.mkdir(UPLOAD_DIR, { recursive: true });
 }
@@ -54,6 +55,10 @@ export async function readJson<T>(key: DataFileKey, fallback: T): Promise<T> {
     const raw = await fsp.readFile(filePath(key), "utf8");
     return JSON.parse(raw) as T;
   } catch {
+    // On Vercel/demo mode, files might not exist; log and return fallback
+    if (isReadOnlyStorage()) {
+      console.warn(`Data file ${DATA_FILES[key]} not found in read-only storage; using fallback`);
+    }
     return fallback;
   }
 }

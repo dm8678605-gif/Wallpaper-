@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { productsRepo, settingsRepo, couponsRepo, ordersRepo, customersRepo, materialsRepo } from "@/lib/data/repos";
 import { computePricing, resolveUnitPrice, calculatorInputSchema, round2 } from "@/lib/pricing";
-import { uid, now, mutateJson } from "@/lib/data/store";
+import { uid, now, mutateJson, isReadOnlyStorage } from "@/lib/data/store";
 import { revalidatePath } from "next/cache";
 import type { Order, OrderItem } from "@/lib/data/types";
 
@@ -43,6 +43,11 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Validation failed", details: parsed.error.flatten() }, { status: 400 });
   }
   const { customer, items, couponCode, paymentMethod } = parsed.data;
+
+  // Prevent order submissions in read-only demo mode
+  if (isReadOnlyStorage()) {
+    return NextResponse.json({ error: "Order submission is disabled in demo mode. Please contact us directly." }, { status: 503 });
+  }
 
   const settings = await settingsRepo.get();
   if (paymentMethod === "whatsapp" && !settings.payments.whatsapp.enabled) {

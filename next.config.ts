@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  // Include data directory in Vercel deployment
+  outputFileTracingIncludes: {
+    '/*': ['./data/**/*'],
+  },
 };
 
 export default nextConfig;

@@ -1,4 +1,4 @@
-import { uid, now, isSeeded, writeJson, ensureDataDir } from "./store";
+import { uid, now, isSeeded, writeJson, ensureDataDir, isReadOnlyStorage } from "./store";
 import type {
   Banner,
   BlogPost,
@@ -144,6 +144,11 @@ function mulberry32(a: number) {
 }
 
 export async function seedIfNeeded(): Promise<void> {
+  // On Vercel/demo mode, skip seeding entirely — rely on bundled JSON files
+  if (isReadOnlyStorage()) {
+    console.log("Demo mode: skipping data seeding (expecting bundled JSON files)");
+    return;
+  }
   await ensureDataDir();
   if (await isSeeded()) return;
 
@@ -413,29 +418,32 @@ export async function seedIfNeeded(): Promise<void> {
   ];
 
   // ---- Persist everything ----
-  const writes: Promise<unknown>[] = [
-    writeJson("styles", styles),
-    writeJson("categories", allCategories),
-    writeJson("rooms", rooms),
-    writeJson("colours", colours),
-    writeJson("materials", materials),
-    writeJson("collections", collections),
-    writeJson("products", products),
-    writeJson("banners", banners),
-    writeJson("homepage", homepage),
-    writeJson("navigation", navigation),
-    writeJson("footer", footer),
-    writeJson("pages", pages),
-    writeJson("blog", blog),
-    writeJson("projects", [...projects, ...beforeAfter]),
-    writeJson("gallery", gallery),
-    writeJson("coupons", coupons),
-    writeJson("theme", theme),
-    writeJson("settings", settings),
-    writeJson("media", media),
-    writeJson("orders", []), writeJson("customers", []), writeJson("reviews", []),
-    writeJson("enquiries", []), writeJson("analytics", []),
-    writeJson("newsletter", []), writeJson("messages", []), writeJson("samples", []),
-  ];
+  const writes: Promise<unknown>[] = [];
+  if (!isReadOnlyStorage()) {
+    writes.push(
+      writeJson("styles", styles),
+      writeJson("categories", allCategories),
+      writeJson("rooms", rooms),
+      writeJson("colours", colours),
+      writeJson("materials", materials),
+      writeJson("collections", collections),
+      writeJson("products", products),
+      writeJson("banners", banners),
+      writeJson("homepage", homepage),
+      writeJson("navigation", navigation),
+      writeJson("footer", footer),
+      writeJson("pages", pages),
+      writeJson("blog", blog),
+      writeJson("projects", [...projects, ...beforeAfter]),
+      writeJson("gallery", gallery),
+      writeJson("coupons", coupons),
+      writeJson("theme", theme),
+      writeJson("settings", settings),
+      writeJson("media", media),
+      writeJson("orders", []), writeJson("customers", []), writeJson("reviews", []),
+      writeJson("enquiries", []), writeJson("analytics", []),
+      writeJson("newsletter", []), writeJson("messages", []), writeJson("samples", []),
+    );
+  }
   await Promise.all(writes);
 }

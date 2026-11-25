@@ -30,10 +30,10 @@ import type {
   ThemeConfig,
 } from "./types";
 
-/** Ensures seed data exists (no-op after first run). Cached per process. */
+/** Ensures seed data exists (no-op after first run or in demo mode). Cached per process. */
 let seeded: Promise<void> | null = null;
 export function ensureSeeded(): Promise<void> {
-  if (!seeded) seeded = seedIfNeeded().catch((e) => { seeded = null; throw e; });
+  if (!seeded) seeded = seedIfNeeded().catch((e) => { seeded = null; console.error("Seed error:", e); });
   return seeded;
 }
 

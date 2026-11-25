@@ -32,6 +32,12 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# local data and uploads (commit to git for Vercel demo)
+# Uncomment these lines if you want to ignore local changes locally
+# /data/
+# /public/uploads/
 
 # vercel
 .vercel
@@ -39,10 +45,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-node_modules/
-.next/
-.env
-.env.*
-!.env.example
-.DS_Store

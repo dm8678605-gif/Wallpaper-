@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
-import { mutateJson, uid, now } from "@/lib/data/store";
+import { mutateJson, uid, now, isReadOnlyStorage } from "@/lib/data/store";
 import { newsletterRepo } from "@/lib/data/repos";
 
 const schema = z.discriminatedUnion("type", [
@@ -24,6 +24,11 @@ const schema = z.discriminatedUnion("type", [
 ]);
 
 export async function POST(req: NextRequest) {
+  // Prevent data mutations in read-only demo mode
+  if (isReadOnlyStorage()) {
+    return NextResponse.json({ error: "Enquiries are disabled in demo mode. Please contact us directly via email." }, { status: 503 });
+  }
+
   let body: unknown;
   try {
     body = await req.json();

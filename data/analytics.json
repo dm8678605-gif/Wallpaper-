@@ -481,5 +481,35 @@
     "type": "pageview",
     "path": "/category/floral-wallpapers",
     "createdAt": "2026-11-25T03:53:17.325Z"
+  },
+  {
+    "id": "evt_0f239098886af8be",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T06:32:03.858Z"
+  },
+  {
+    "id": "evt_d63929de479982f2",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T06:32:03.873Z"
+  },
+  {
+    "id": "evt_e61b9dae56985534",
+    "type": "pageview",
+    "path": "/",
+    "createdAt": "2026-11-25T06:34:35.328Z"
+  },
+  {
+    "id": "evt_6b715fc6fbf3db4a",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T06:36:51.720Z"
+  },
+  {
+    "id": "evt_968d1e7827aaad7e",
+    "type": "pageview",
+    "path": "/category/floral-wallpapers",
+    "createdAt": "2026-11-25T06:36:51.758Z"
   }
 ]
